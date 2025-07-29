@@ -76,7 +76,7 @@ moodfood/
                           ###Screenshots
 
   
-![Home Page](screenshots/pic1.jpg)
+![Home Page](screenshots/pic1.png)
 
 
 ![Recommendation Page](screenshots/pic2.jpg)
